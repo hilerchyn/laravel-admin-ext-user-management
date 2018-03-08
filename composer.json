@@ -1,5 +1,5 @@
 {
-    "name": "hiler/laravel-admin-ext/user-management",
+    "name": "hiler_laravel-admin-ext/user-management",
     "description": "user management extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "setting"],
