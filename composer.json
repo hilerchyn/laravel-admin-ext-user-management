@@ -1,14 +1,14 @@
 {
-    "name": "laravel-admin-ext/config",
-    "description": "Config extension for laravel-admin",
+    "name": "hiler/laravel-admin-ext/user-management",
+    "description": "user management extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "setting"],
     "homepage": "https://github.com/laravel-admin-extensions/config",
     "license": "MIT",
     "authors": [
         {
-            "name": "z-song",
-            "email": "zosong@126.com"
+            "name": "chen tao",
+            "email": "hilerchyn@gmail.com"
         }
     ],
     "require": {
